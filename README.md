@@ -17,20 +17,21 @@ Here, are some snippets from the website:
 
 This is the home page of the web application - PrintPlus
 
-![home1](https://user-images.githubusercontent.com/56120520/187760959-12b828fa-9226-4ccf-939f-55c0da085408.JPG)
+![Homepage](https://user-images.githubusercontent.com/56120520/187762588-0a84e2f6-280c-48b5-b5c3-70cdb15e6394.JPG)
 
-![home2](https://user-images.githubusercontent.com/56120520/187760972-46262991-175c-4a10-a364-2b2b52af2611.JPG)
+
+![homepage1](https://user-images.githubusercontent.com/56120520/187762644-db04c818-4ac2-45ae-bae6-93cbe0c3afb3.JPG)
 
 
 This is the form in the application to fill in the details for type of printing and other specific details.
 
 
-![form](https://user-images.githubusercontent.com/56120520/187760997-ac6047cb-6bb8-4f68-bbe1-ea7c86b18182.JPG)
+![form](https://user-images.githubusercontent.com/56120520/187762731-89ff47b6-51d6-4481-9b3d-420c3922a6fa.png)
 
 
 
 
 This is the order summary page, where the summary would be displayed after an printing order is placed through the web application.
 
+![paymentdone](https://user-images.githubusercontent.com/56120520/187762830-4e062cf9-34c6-46ff-9555-32a2936b6d61.JPG)
 
-![billing](https://user-images.githubusercontent.com/56120520/187761019-2ae942ec-2db5-4835-a867-4792ba6e1ad1.JPG)
