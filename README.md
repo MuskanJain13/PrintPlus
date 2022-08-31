@@ -23,6 +23,8 @@ This is the home page of the web application - PrintPlus
 ![homepage1](https://user-images.githubusercontent.com/56120520/187762644-db04c818-4ac2-45ae-bae6-93cbe0c3afb3.JPG)
 
 
+
+
 This is the form in the application to fill in the details for type of printing and other specific details.
 
 
