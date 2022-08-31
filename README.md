@@ -7,3 +7,6 @@ On this website the user see the queue and the time to take out the printouts. S
 the ICT for prints. The user can also upload his/her files and can will the form for the requirements 
 like orientation, color, paper size, etc. and can do the payment so the file directly will go ICT and on 
 the next page the form summary and time in printouts will be available.
+
+https://user-images.githubusercontent.com/56120520/187737140-f096f00c-55e1-40c6-a696-275785329514.mp4
+
